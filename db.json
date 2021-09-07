@@ -1,0 +1,12 @@
+{
+  "course": [
+    {
+      "id": "SIT100",
+      "available": 5
+    },
+    {
+      "id": "SIT200",
+      "available": 16
+    }
+  ]
+}
