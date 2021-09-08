@@ -1,12 +1,32 @@
 {
   "course": [
     {
-      "id": "SIT100",
-      "available": 5
+      "id": "INT625",
+      "available": 10
     },
     {
-      "id": "SIT200",
-      "available": 16
+      "id": "INT632",
+      "available": 13
+    },
+    {
+      "id": "INT633",
+      "available": 20
+    },
+    {
+      "id": "INT642",
+      "available": 13
+    },
+    {
+      "id": "INT615",
+      "available": 2
+    },
+    {
+      "id": "INT613",
+      "available": 40
+    },
+    {
+      "id": "INT610",
+      "available": 0
     }
   ]
 }
